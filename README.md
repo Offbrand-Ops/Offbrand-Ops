@@ -1,5 +1,5 @@
 ## Did you know there's a river under RBD
-- I'm Brando, Freshman Computer Engineer using this to make a sattelite.
+- I'm Brandon, Sophomore Computer Engineer using this to make a sattelite.
 - Ask me how rust is going.
 - If you need to reach me, you'll know how.
 
